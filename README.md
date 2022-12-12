@@ -1,4 +1,4 @@
-# Maps Example
+# Eco Ops Expo Build Test based on React Native Expo Maps Example
 
 <p>
   <!-- iOS -->
